@@ -1,3 +1,3 @@
-Data penduduk
-App ini dibuat untuk menyelesaikan tugas praktikum PROGMOB
+(Esport League)
 
+sebuah aplikasi yang saya buat untuk memenuhi tugas praktikum pemrograman mobile 2021
