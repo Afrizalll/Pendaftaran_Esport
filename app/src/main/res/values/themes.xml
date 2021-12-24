@@ -1,0 +1,28 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.PencatatanPenduduk" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#707070</item>
+        <item name="colorPrimaryDark">@color/design_default_color_primary_dark</item>
+        <item name="colorAccent">@color/design_default_color_on_secondary</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor">@color/white</item>
+    </style>
+
+    <style name="animationDialog">
+        <item name="android:windowEnterAnimation">@android:anim/bounce_interpolator</item>
+        <item name="android:windowExitAnimation">@android:anim/fade_out</item>
+    </style>
+
+    <style name="ToolbarThemeOrange" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">#FFC107</item>
+        <item name="android:textColorPrimary">#353532</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyOverflowButtonStyle</item>
+    </style>
+
+
+    <style name="MyOverflowButtonStyle" parent="Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:tint">#171716</item>
+    </style>
+
+</resources>

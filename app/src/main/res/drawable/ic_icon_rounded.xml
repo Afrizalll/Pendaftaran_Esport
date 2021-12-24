@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/rounded_top_background" />
+    <item
+        android:width="20dp"
+        android:height="20dp"
+        android:drawable="@drawable/ic_baseline_arrow_drop_down_circle_24"
+        android:gravity="right|center_vertical" />
+
+</shape>
+

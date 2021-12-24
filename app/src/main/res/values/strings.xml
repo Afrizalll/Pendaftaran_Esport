@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Pencatatan Penduduk</string>
+    <string name="label_name">Nama Lengkap <font color='#FF0000'>*</font></string>
+    <string name="label_alamat">Alamat (Sesuai Ktp) <font color='#FF0000'>*</font></string>
+    <string name="label_tglLahir">Tanggal Lahir <font color='#FF0000'>*</font></string>
+    <string name="label_noTelp">Nomor Telepon <font color='#FF0000'>*</font></string>
+    <string name="label_agama">Agama <font color='#FF0000'>*</font></string>
+    <string name="label_jk">Jenis Kelamin <font color='#FF0000'>*</font></string>
+
+    <string-array name="jenis_kelamin">
+        <item>Pria</item>
+        <item>Wanita</item>
+
+    </string-array>
+
+</resources>
